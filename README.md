@@ -9,7 +9,7 @@
 </div>
 
 <div>
-  <img align="right" alt="Renan-Yoda" height=100" width="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1EiiurPmlOxHePb87jNEj3swLjSqUxA3EJDwfZ6SMm9krbUTY0U6hz3-KD-5jcM1E-FA&usqp=CAU">
+  <img align="right" alt="Renan-Yoda" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1EiiurPmlOxHePb87jNEj3swLjSqUxA3EJDwfZ6SMm9krbUTY0U6hz3-KD-5jcM1E-FA&usqp=CAU">
 </div>
 
 <!--
