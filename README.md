@@ -8,10 +8,6 @@
   <img align="center" alt="Renan-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg">
 </div>
 
-<div>
-  <img align="right" alt="Renan-Yoda" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1EiiurPmlOxHePb87jNEj3swLjSqUxA3EJDwfZ6SMm9krbUTY0U6hz3-KD-5jcM1E-FA&usqp=CAU">
-</div>
-
 <!--
 **RenanSX/renanSX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
