@@ -9,8 +9,6 @@
   <img align="center" alt="Renan-laravel" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg">
   <img align="center" alt="Renan-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg">
   
-  
-  ![snake gif](https://github.com/RenanSX/renanSX/blob/output/github-contribution-grid-snake.svg)
 </div>
 
 
