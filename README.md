@@ -10,6 +10,8 @@
   <img align="center" alt="Renan-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg">
 </div>
 
+![snake gif](https://github.com/RenanSX/renanSX/blob/output/github-contribution-grid-snake.svg)
+
 <!--
 **RenanSX/renanSX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
