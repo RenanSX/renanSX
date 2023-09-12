@@ -3,9 +3,14 @@
 My name is Renan Silva Xavier graduated in Information Systems at Pitágoras, I have been working as a software developer for over 7 years.
 I worked on numerous projects throughout my professional life focused for web development.
 I consider myself a calm person, self-taught, easy to relate to and passionate about what he does.
-Currently work at <a href="https://www.grupoboticario.com.br/">Grupo Boticário</a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RenanSX&layout=compact)](https://github.com/RenanSX/github-readme-stats)
+Currently work at <a target="_blank" href="https://www.grupoboticario.com.br/">Grupo Boticário</a>
+
+<div>
+  <a href="https://github.com/RenanSX">
+  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenanSX&layout=compact&langs_count=7&theme=dracula"/>
+  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=RenanSX&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
 
 ## Contacts
 <div>
