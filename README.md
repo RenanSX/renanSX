@@ -1,5 +1,13 @@
 # Hello, I am Renan Silva Xavier 👋
-## Contatos:
+## About me
+My name is Renan Silva Xavier graduated in Information Systems at Pitágoras, I have been working as a software developer for over 7 years.
+I worked on numerous projects throughout my professional life focused for web development.
+I consider myself a calm person, self-taught, easy to relate to and passionate about what he does.
+Currently work at <a href="https://www.grupoboticario.com.br/">Grupo Boticário</a>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RenanSX&layout=compact)](https://github.com/RenanSX/github-readme-stats)
+
+## Contacts
 <div>
   <a href="https://www.linkedin.com/in/renansxavier/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "mailto:renansxdev@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
