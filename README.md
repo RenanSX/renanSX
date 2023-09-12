@@ -29,9 +29,9 @@ Currently work at <a target="_blank" href="https://www.grupoboticario.com.br/">G
   <img align="center" alt="Renan-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg">
 </div>
 
-<div>
-  ![Snake animation](https://github.com/RenanSX/RenanSX/blob/output/github-contribution-grid-snake.svg)
-</div>
+
+![Snake animation](https://github.com/RenanSX/RenanSX/blob/output/github-contribution-grid-snake.svg)
+
 
 
 <!--
