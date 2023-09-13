@@ -57,6 +57,7 @@ Phone: +55 31 993552399
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="35" height="35"/>
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="35" height="35"/>
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="35" height="35"/>
+  <img loading="lazy" src="https://devicons.railway.app/i/postman.svg" width="35" height="35"/>  
 </div>
 
 #### Tools and others
