@@ -5,7 +5,7 @@ I worked on numerous projects throughout my professional life focused for web de
 I consider myself a calm person, self-taught, easy to relate to and passionate about what he does.
 Currently work at <a target="_blank" href="https://www.grupoboticario.com.br/">Grupo Boticário</a>.
 
-Phone: +55 31 993552399
+Phone: +55 31 995481304
 
 - [Certificates](https://bit.ly/3GJLLcq) 🧑‍🎓 - Certifications I've taken over the years.
 - [English C1](https://www.efset.org/cert/zP4TcF) 🇺🇸 - EF SET C1 Advanced.
@@ -39,12 +39,16 @@ Phone: +55 31 993552399
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="35" height="35"/>
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="35" height="35"/>
   <img loading="lazy" src="https://static-00.iconduck.com/assets.00/serverless-icon-256x204-70yljt2k.png" width="35" height="35"/>
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastify/fastify-original.svg" width="35" height="35"/>
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sequelize/sequelize-original.svg" width="35" height="35" />
 </div>
 
 #### Databases
 <div style="display: inline_block">
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="35" height="35"/>
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="35" height="35"/>
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="35" height="35"/>
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" width="35" height="35"/>
 </div>
 
 #### Cloud/OS/Devops tools
@@ -55,7 +59,8 @@ Phone: +55 31 993552399
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" width="35" height="35"/>
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="35" height="35"/>
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="35" height="35"/>
-  <img loading="lazy" src="https://devicons.railway.app/i/postman.svg" width="35" height="35"/>  
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="35" height="35"/>
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sonarqube/sonarqube-original.svg" width="35" height="35"/>
 </div>
 
 #### Tools and others
@@ -69,7 +74,8 @@ Phone: +55 31 993552399
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" width="35" height="35"/>
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="35" height="35"/>
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original.svg" width="35" height="35"/>
-
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" width="35" height="35" />
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/axios/axios-plain.svg" width="35" height="35"/>
 </div>
 
 #### Learning
@@ -81,7 +87,7 @@ Phone: +55 31 993552399
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="35" height="35"/>
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="35" height="35"/>
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" width="35" height="35"/>
-
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" width="35" height="35" />
 </div>
 
 ## Contacts
