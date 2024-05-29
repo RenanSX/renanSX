@@ -26,6 +26,7 @@ Phone: +55 31 995481304
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="35" height="35"/>
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" width="35" height="35"/>
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" width="35" height="35"/>
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="35" height="35"/>
 </div>
 
 #### Frameworks and libraries
@@ -74,12 +75,12 @@ Phone: +55 31 995481304
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" width="35" height="35"/>
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="35" height="35"/>
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original.svg" width="35" height="35"/>
-  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" width="35" height="35" />
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" width="35" height="35"/>
 </div>
 
 #### Learning
 <div style="display: inline_block">
-  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="35" height="35"/>
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="35" height="35"/>
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/argocd/argocd-original.svg" width="35" height="35"/>
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="35" height="35"/>
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="35" height="35"/>
