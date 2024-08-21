@@ -1,11 +1,10 @@
-# Hello, I am Renan Silva Xavier 👋
-## About me
+# Hello there, I am Renan Silva Xavier 
+<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">
 My name is Renan Silva Xavier graduated in Information Systems at Pitágoras, I have been working as a software developer for over 7 years.
 I worked on numerous projects throughout my professional life focused for web development.
 I consider myself a calm person, self-taught, easy to relate to and passionate about what he does.
 Currently work at <a target="_blank" href="https://www.grupoboticario.com.br/">Grupo Boticário</a>.
 
-Phone: +55 31 995481304
 
 - [Certificates](https://bit.ly/3GJLLcq) 🧑‍🎓 - Certifications I've taken over the years.
 - [English C1](https://www.efset.org/cert/zP4TcF) 🇺🇸 - EF SET C1 Advanced.
